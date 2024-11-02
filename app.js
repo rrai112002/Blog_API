@@ -21,3 +21,5 @@ app.use('/blog', blogRoute)
 // app.use('comment', commentRoute)
 
 module.exports = app
+
+// app.js it is
